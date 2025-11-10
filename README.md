@@ -77,7 +77,7 @@ This approach allows for **dynamic, context-aware styling** that reflects the se
 
 This achieves a "mood" or "sentiment" styling without complicating the core question logic.
 
-## Dynamic Categorization with SummaryCard
+### Dynamic Categorization with SummaryCard
 
 The `SummaryCard` component is responsible for translating a percentage score into a contextual badge and progress bar color.
 
