@@ -2,7 +2,6 @@
 import {useRouter} from "next/navigation";
 import Header from "./components/Header";
 import { useQuiz } from './context/QuizContext';
-import { useState } from "react";
 
 
 export default function LandingPage() {
