@@ -106,6 +106,7 @@ Follow these steps to set up and run the project locally:
 
 ### 1. Clone the Repository
 git clone https://github.com/your-username/alcohol-free-plan-frontend.git
+
 cd alcohol-free-plan-frontend
 
 ### 2. Install Dependencies
