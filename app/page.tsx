@@ -8,7 +8,6 @@ import { useState } from "react";
 export default function LandingPage() {
   const router = useRouter();
   const {setGender}= useQuiz();
-  const [selected, setSelected] = useState<string | null>(null);
 
   const options = [
     { gender: 'male', image: '/male.svg' },
@@ -16,7 +15,6 @@ export default function LandingPage() {
   ];
 
   const handleSelect = (gender: string) => {
-    setSelected(gender);
     setGender(gender);
     router.push('/quiz');
   };
