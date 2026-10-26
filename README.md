@@ -1,6 +1,6 @@
 ## alcohol-free-plan-frontend
 
-This project is a **mobile-only frontend web application** built as part of my **technical assignment**.  
+This project is a **frontend web application** built as part of my **technical assignment**.  
 The quiz guides users through a short set of questions to create a **personalized Alcohol-Free Plan** based on their responses.  
 Users begin by selecting their gender, proceed through six interactive quiz questions with dynamic progress indicators, and finish on a summary page displaying tailored results, insights, and a live countdown timer.
 
